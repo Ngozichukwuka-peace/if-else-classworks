@@ -1,2 +1,2 @@
-# if-else--lasswork
+# if-else-classwork
 Tech Academy class work
